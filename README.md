@@ -1,13 +1,13 @@
 ## flutter 学习
 
 
-配置 flutter 下载仓库 
+1、配置 flutter 下载仓库 
 =================================================
    -  PUB_HOSTED_UR   https://pub.flutter-io.cn 
 
    -  FLUTTER_STORAGE_BASE_URL   https://storage.flutter-io.cn 
 
-下载  Visual Studio Code
+2、下载  Visual Studio Code
 =================================================
     安装Flutter插件
    - 启动 VS Code
@@ -22,8 +22,7 @@
    -  输入'doctor'，选择'Flutter: Run Flutter Doctor'
    -  查看窗口“output”下的打印信息，成功如下图
 
-
-下载 flutter_windows_1.20.4-stable
+3、下载 flutter_windows_1.20.4-stable
 ============================================================
      配置 sdk路径  和 sdk路径/bin
      创建一个flutter app 
@@ -32,5 +31,5 @@
    -  输入'flutter'，选择'Flutter: New project'， enter
    -  在'Terminal'窗口中运行
 
-flutter run
+4、flutter run
 =============================================================
