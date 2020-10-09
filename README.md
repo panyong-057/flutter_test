@@ -1,7 +1,7 @@
 ## flutter 学习
 
 
-配置 flutter 下载厂库 
+配置 flutter 下载仓库 
 =================================================
    -  PUB_HOSTED_UR   https://pub.flutter-io.cn 
 
@@ -13,8 +13,8 @@
    - 启动 VS Code
    - 调用 View>Command Palette…
    - 输入 ‘install’, 然后选择 Extensions: Install Extension action
-    - 在搜索框输入 flutter , 在搜索结果列表中选择 ‘Flutter’, 然后点击Install
-    - 选择 ‘OK’ 重新启动 VS Code
+   - 在搜索框输入 flutter , 在搜索结果列表中选择 ‘Flutter’, 然后点击Install
+   - 选择 ‘OK’ 重新启动 VS Code
 
     验证是否安装成功
    -  启动 VS Code
@@ -27,10 +27,10 @@
 ============================================================
      配置 sdk路径  和 sdk路径/bin
      创建一个flutter app 
-    -  启动 VS Code
-    -  调用 View>Command Palette…
-    -  输入'flutter'，选择'Flutter: New project'， enter
-    -  在'Terminal'窗口中运行
+   -  启动 VS Code
+   -  调用 View>Command Palette…
+   -  输入'flutter'，选择'Flutter: New project'， enter
+   -  在'Terminal'窗口中运行
 
 flutter run
 =============================================================
